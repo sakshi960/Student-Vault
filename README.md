@@ -1,4 +1,4 @@
-# 🎓 StudentVault - Student Management System (C++)
+# StudentVault - Student Management System (C++)
 
 A console-based Student Management System developed in C++ to efficiently manage student records.
 
@@ -9,7 +9,7 @@ A console-based Student Management System developed in C++ to efficiently manage
 - Sort records
 - Display all student data
 
-## 🛠️ Technologies Used
+# Technologies Used
 - C++
 - File Handling / Data Structures
 
